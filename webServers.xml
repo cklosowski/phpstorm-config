@@ -1,0 +1,66 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="92ed2865-04e2-4ea1-9cdd-122f9490fe36" name="Vagrant Trunk" url="http://local.wordpress-trunk.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="97304f90-4f4f-4f5c-8848-254a9c0e19cd" name="MAMP Local Dev" url="http://local.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="83e48a16-c379-47b2-9155-a7534a53a8e1" name="ShowIt Store" url="https://store.showit.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="44132b53-d0a8-4557-9d1e-5278b3a675fe" name="Pressmatic EDD" url="https://edd.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="0ff4739a-9abe-4958-a8f4-619d474e35e0" name="ADFFF Local" url="http://adfff.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="6039fb26-81bd-4d18-8713-94f91fe254e4" name="Jr Developer Local" url="https://jrdeveloperguide.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="7ca29a20-b9fe-4e79-aa1c-7d889c3cb455" name="Petra" url="http://jessicaandmatt2017.com">
+        <fileTransfer host="chrisk.io" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/jessicaandmatt2017/htdocs" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="27792038-2726-453d-8475-5da40220ae88" name="Jessica and Matt" url="http://jessicaandmatt2017.com">
+        <fileTransfer host="jessicaandmatt2017.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/jessicaandmatt2017.com/htdocs" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="30ea7bf9-59c8-4efc-bf89-957024a91edc" name="Land Academy Dev" url="http://landacademy.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="80bebd87-71dd-4eb6-90f5-343d608165f9" name="Petra (1)" url="http://chrisk.io">
+        <fileTransfer host="chrisk.io" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c1203497-3c04-4542-8f36-99a28a7f3a2a" name="chriskio.dev" url="http://chriskio.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="695143e6-ca48-4189-ba9e-c0531f2392b4" name="Land Academy uDev" url="http://landacademy.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="483992b6-cb58-419f-bd9a-213fa6ce070d" name="PPPDEV" url="http://ppp.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="63c3dcc9-a0bd-467a-8d6c-2e2c96482739" name="WooDev" url="http://woo.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="df049e60-d097-422d-aa4e-19b41e8f604a" name="PPP Site" url="https://postpromoterpro.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
