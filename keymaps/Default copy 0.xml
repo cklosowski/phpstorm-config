@@ -17,4 +17,9 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ParameterInfo" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
 </keymap>
