@@ -64,6 +64,9 @@
       <webServer id="b8a7a52c-8b47-451d-aa79-e512baddb2d6" name="Slides" url="http://slides.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="80cd3e7d-fb1b-45da-9705-06e821e45be4" name="Woo" url="http://woo.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
