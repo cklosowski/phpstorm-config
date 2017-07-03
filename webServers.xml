@@ -67,6 +67,12 @@
       <webServer id="80cd3e7d-fb1b-45da-9705-06e821e45be4" name="Woo" url="http://woo.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ea667877-d81e-41f6-be28-72d11eb1f555" name="Stores" url="https://stores.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="98a8dc39-9911-4288-86c7-c070b3692dfa" name="Shops" url="https://shops.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
