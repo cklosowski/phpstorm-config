@@ -73,6 +73,9 @@
       <webServer id="98a8dc39-9911-4288-86c7-c070b3692dfa" name="Shops" url="https://shops.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f1c55dc1-ace2-40b8-b426-deffd89199c1" name="Ninja Forms" url="http://ninjaforms.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
