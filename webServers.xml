@@ -76,6 +76,14 @@
       <webServer id="f1c55dc1-ace2-40b8-b426-deffd89199c1" name="Ninja Forms" url="http://ninjaforms.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f54c4316-fadc-4846-9128-20313acf09a2" name="Beevy.co" url="http://beevy.co">
+        <fileTransfer host="beevy.co" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/beevy.co/htdocs" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
