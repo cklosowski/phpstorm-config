@@ -90,6 +90,9 @@
       <webServer id="bc3a74a3-12f3-4169-850b-2296407dc1b6" name="Demo Sacrafice" url="http://demosacrafice.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="61da7db2-19cc-479a-993e-d98125e102b1" name="approveme" url="https://approveme.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
