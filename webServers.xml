@@ -93,6 +93,9 @@
       <webServer id="61da7db2-19cc-479a-993e-d98125e102b1" name="approveme" url="https://approveme.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1e5c8c69-e51e-4a44-9663-fa123ebcb081" name="Approve Me Plugin" url="http://docsite.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
