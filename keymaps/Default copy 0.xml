@@ -23,6 +23,10 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift meta alt v" />
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
@@ -51,6 +55,7 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PasteMultiple" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
