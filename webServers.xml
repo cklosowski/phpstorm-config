@@ -61,6 +61,47 @@
       <webServer id="df049e60-d097-422d-aa4e-19b41e8f604a" name="PPP Site" url="https://postpromoterpro.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b8a7a52c-8b47-451d-aa79-e512baddb2d6" name="Slides" url="http://slides.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="80cd3e7d-fb1b-45da-9705-06e821e45be4" name="Woo" url="http://woo.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ea667877-d81e-41f6-be28-72d11eb1f555" name="Stores" url="https://stores.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="98a8dc39-9911-4288-86c7-c070b3692dfa" name="Shops" url="https://shops.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f1c55dc1-ace2-40b8-b426-deffd89199c1" name="Ninja Forms" url="http://ninjaforms.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f54c4316-fadc-4846-9128-20313acf09a2" name="Beevy.co" url="http://beevy.co">
+        <fileTransfer host="beevy.co" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/beevy.co/htdocs" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c1a4c483-6e71-4548-a0fb-e30f026140e3" name="Beevy.co [Dev]" url="https://beevy.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="bc3a74a3-12f3-4169-850b-2296407dc1b6" name="Demo Sacrafice" url="http://demosacrafice.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="61da7db2-19cc-479a-993e-d98125e102b1" name="approveme" url="https://approveme.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1e5c8c69-e51e-4a44-9663-fa123ebcb081" name="Approve Me Plugin" url="http://docsite.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="03ab081b-aec3-49d4-9908-cebe9551d2c3" name="rcp-plugin" url="https://rcpclient.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c0086a2d-ea43-42c2-a0d0-caf814bbaf36" name="rcp site" url="https://restrictcontentpro.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
