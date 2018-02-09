@@ -102,6 +102,9 @@
       <webServer id="c0086a2d-ea43-42c2-a0d0-caf814bbaf36" name="rcp site" url="https://restrictcontentpro.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="968e5e76-0cda-44b9-b229-436f9aba7b0d" name="EDD Local" url="https://edd.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
