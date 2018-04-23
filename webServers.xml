@@ -108,6 +108,9 @@
       <webServer id="9a194f06-910d-4b7e-ae41-1764c899c91a" name="3dd" url="https://3dd.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b816fd3a-4f88-4f48-b2be-a925b378ba55" name="Slate Rocks" url="https://slaterocks.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
