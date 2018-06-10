@@ -111,6 +111,9 @@
       <webServer id="b816fd3a-4f88-4f48-b2be-a925b378ba55" name="Slate Rocks" url="https://slaterocks.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3691734e-9c84-481a-b768-0347bb100a03" name="Ninjaforms" url="https://ninjaforms.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
