@@ -6,7 +6,13 @@
     <option name="highlightThickness" value="1" />
     <option name="accentColor" value="80cbc4" />
     <option name="tabsHeight" value="35" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="treeFontSize" value="10" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="4424d148:163f08d6e73:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
   </component>
 </application>
