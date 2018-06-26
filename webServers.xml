@@ -114,7 +114,10 @@
       <webServer id="3691734e-9c84-481a-b768-0347bb100a03" name="Ninjaforms" url="https://ninjaforms.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="82b286ea-f23d-47c3-ab59-1a1d3aae3660" name="EDD Local" url="https://edd.lndo.site">
+      <webServer id="82b286ea-f23d-47c3-ab59-1a1d3aae3660" name="EDD Local (1)" url="https://edd.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a4a1d7bd-e0d6-4800-8d8e-6dfc142b10af" name="ApproveMeLocal" url="https://approveme.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
