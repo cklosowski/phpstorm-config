@@ -123,6 +123,9 @@
       <webServer id="297580c9-177d-461f-a873-1cb41da3533c" name="3DD" url="https://3dd.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c5c83595-c5b9-46be-802d-36682cae3bf6" name="EDD Lando" url="https://edd.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
