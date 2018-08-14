@@ -126,6 +126,9 @@
       <webServer id="c5c83595-c5b9-46be-802d-36682cae3bf6" name="EDD Lando" url="https://edd.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a90da44d-f9cf-446e-a868-8d70ce5ba0e6" name="[DEV] PPP" url="https://ppp.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
