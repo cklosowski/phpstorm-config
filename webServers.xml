@@ -129,6 +129,9 @@
       <webServer id="a90da44d-f9cf-446e-a868-8d70ce5ba0e6" name="[DEV] PPP" url="https://ppp.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="36a97d2a-78ee-4b0c-b5d1-33540cb0ced0" name="Migrat3DD" url="https://migrat3dd.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
