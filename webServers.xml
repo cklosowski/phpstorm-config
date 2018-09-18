@@ -132,6 +132,9 @@
       <webServer id="36a97d2a-78ee-4b0c-b5d1-33540cb0ced0" name="Migrat3DD" url="https://migrat3dd.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="62e79bf8-b5a4-42bf-b4e2-4e5aa01f6cd9" name="Beevy Local" url="https://beevy.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
