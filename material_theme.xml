@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.0" />
+    <option name="version" value="2.9.2" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightThickness" value="1" />
@@ -9,6 +9,7 @@
     <option name="accentColor" value="3665cb" />
     <option name="tabsHeight" value="25" />
     <option name="darkTitleBar" value="true" />
+    <option name="useMaterialFont" value="false" />
     <option name="treeFontSize" value="14" />
     <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="4424d148:163f08d6e73:-7fff" />
