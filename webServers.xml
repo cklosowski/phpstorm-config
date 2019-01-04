@@ -138,6 +138,9 @@
       <webServer id="21d33431-c804-47ba-9b42-6742591e1680" name="WPSP" url="https://wpsp.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c20c4b86-aac3-4e11-bc69-548808ce2a86" name="ShowIt Lando" url="https://showit.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
