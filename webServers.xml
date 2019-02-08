@@ -141,6 +141,9 @@
       <webServer id="c20c4b86-aac3-4e11-bc69-548808ce2a86" name="ShowIt Lando" url="https://showit.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e990e2f4-3dea-4f49-9051-71609da783e1" name="ApproveMe Dev" url="https://appme.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
