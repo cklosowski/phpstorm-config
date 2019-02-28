@@ -147,6 +147,9 @@
       <webServer id="bc419ae0-edd1-404e-a296-17c0915222a6" name="3dd Migration" url="https://migrat3dd.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6be9bb4f-e9a9-4180-b571-505a3f5a77bb" name="rcp local" url="https://rcp.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
