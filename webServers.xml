@@ -150,6 +150,9 @@
       <webServer id="6be9bb4f-e9a9-4180-b571-505a3f5a77bb" name="rcp local" url="https://rcp.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4da6d364-c4df-4b43-9492-2adbe606e04c" name="EDD site" url="https://easydigitaldownloads.lndo.site">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
