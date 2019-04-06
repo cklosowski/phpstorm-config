@@ -4,12 +4,12 @@
     <property name="created">2018-02-12T10:20:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.4.0.0</property>
-    <property name="modified">2019-03-29T14:23:58</property>
+    <property name="modified">2019-04-06T14:23:41</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_COPIED" value="c3e88d" />
@@ -23,4 +23,23 @@
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="" />
   </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
