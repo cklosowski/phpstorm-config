@@ -156,6 +156,9 @@
       <webServer id="0731c17d-7b73-4f0c-915e-33b2859b0e9e" name="Five9" url="https://five9.lndo.site">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6330d0ad-5256-4aba-8925-20d650defa78" name="WP Core" url="http://localhost:8889/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
