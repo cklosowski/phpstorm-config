@@ -69,6 +69,10 @@
       <sshConfig host="jessicaandmatt2017.com" id="41683e1d-5570-47bf-83e9-82205f223a3a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Jessica and Matt" nameFormat="CUSTOM" />
       <sshConfig host="chrisk.io" id="e92fde65-8cb0-4d7f-94e5-393a23434c6a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Petra (1)" nameFormat="CUSTOM" />
       <sshConfig host="beevy.co" id="06c5fc8d-c9fa-4968-876a-e0076ef38cdc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Beevy.co" nameFormat="CUSTOM" />
+      <sshConfig host="chrisk.io" id="d1ab3d9b-3d59-40f3-9f58-33211f3230e7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Petra" nameFormat="CUSTOM" />
+      <sshConfig host="jessicaandmatt2017.com" id="d731d4e6-3f19-4ca1-ab4f-1c1079e400a5" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Jessica and Matt" nameFormat="CUSTOM" />
+      <sshConfig host="chrisk.io" id="32878be3-2a78-4f8c-9b36-77daae714e9c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Petra (1)" nameFormat="CUSTOM" />
+      <sshConfig host="beevy.co" id="cf717af4-c0bc-44dd-82b6-c051e8ab25b9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Beevy.co" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
