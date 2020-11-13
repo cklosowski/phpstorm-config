@@ -20,14 +20,14 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="7ca29a20-b9fe-4e79-aa1c-7d889c3cb455" name="Petra" url="http://jessicaandmatt2017.com">
-        <fileTransfer rootFolder="/var/www/jessicaandmatt2017/htdocs" accessType="SFTP" host="chrisk.io" port="22" sshConfigId="a22259f8-b102-4afe-a7f0-851d1eb7cb5c" sshConfig="Petra" keyPair="true">
+        <fileTransfer rootFolder="/var/www/jessicaandmatt2017/htdocs" accessType="SFTP" sshConfigId="a22259f8-b102-4afe-a7f0-851d1eb7cb5c" sshConfig="Petra">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="27792038-2726-453d-8475-5da40220ae88" name="Jessica and Matt" url="http://jessicaandmatt2017.com">
-        <fileTransfer rootFolder="/var/www/jessicaandmatt2017.com/htdocs" accessType="SFTP" host="jessicaandmatt2017.com" port="22" sshConfigId="2ed8dc5f-30e7-4325-b783-f0267ac444b5" sshConfig="Jessica and Matt" keyPair="true">
+        <fileTransfer rootFolder="/var/www/jessicaandmatt2017.com/htdocs" accessType="SFTP" sshConfigId="2ed8dc5f-30e7-4325-b783-f0267ac444b5" sshConfig="Jessica and Matt">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -37,7 +37,7 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="80bebd87-71dd-4eb6-90f5-343d608165f9" name="Petra (1)" url="http://chrisk.io">
-        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="chrisk.io" port="22" sshConfigId="a22259f8-b102-4afe-a7f0-851d1eb7cb5c" sshConfig="Petra" keyPair="true">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" sshConfigId="a22259f8-b102-4afe-a7f0-851d1eb7cb5c" sshConfig="Petra">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -74,7 +74,7 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="f54c4316-fadc-4846-9128-20313acf09a2" name="Beevy.co" url="http://beevy.co">
-        <fileTransfer rootFolder="/var/www/beevy.co/htdocs" accessType="SFTP" host="beevy.co" port="22" sshConfigId="c03d5447-0e56-49aa-a953-c059ec497812" sshConfig="Beevy.co" keyPair="true">
+        <fileTransfer rootFolder="/var/www/beevy.co/htdocs" accessType="SFTP" sshConfigId="c03d5447-0e56-49aa-a953-c059ec497812" sshConfig="Beevy.co">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -156,6 +156,9 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="8f346d37-a2a4-4497-9c80-3b311ce8b604" name="SGC Local" url="https://sgc.lndo.site">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="05933770-db30-408c-951e-e4787bbebe29" name="AppMe Contracts" url="https://contracts.lndo.site">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
