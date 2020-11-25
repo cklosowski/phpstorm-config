@@ -161,6 +161,9 @@
       <webServer id="05933770-db30-408c-951e-e4787bbebe29" name="AppMe Contracts" url="https://contracts.lndo.site">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="795b35de-c9b8-495d-9732-96c7edf56eea" name="AffWP Dev" url="https://affwp.lndo.site">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
