@@ -164,6 +164,9 @@
       <webServer id="795b35de-c9b8-495d-9732-96c7edf56eea" name="AffWP Dev" url="https://affwp.lndo.site">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="ce57252c-59fb-4ae4-a7bf-2e7b9b1dcc46" name="SHD Site" url="https://shd.lndo.site">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
